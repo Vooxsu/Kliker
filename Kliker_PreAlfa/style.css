@@ -1,0 +1,230 @@
+body
+{
+	background-color:black;
+}
+
+#guzik
+{
+	margin: 0 auto;
+	min-height:350px;
+	max-height:351px;
+	min-width:350px;
+	max-width:351px;
+}
+
+#guzik:hover
+{
+	cursor:pointer;
+	min-height:350px;
+	max-height:351px;
+	min-width:350px;
+	max-width:351px;
+}
+
+#punkty
+{
+	background-color:black;
+	color:gold;
+	font-size:2em;
+	min-width:100%;
+	text-align:center;
+}
+#ile_next
+{
+	background-color:black;
+	color:gold;
+	font-size:1.5em;
+	min-width:100%;
+	text-align:center;
+}
+.tło_guzik:hover
+{
+	background-color:black;
+	font-size:1.5em;
+	border-color:gold;
+	color:gold;
+	width:100%;
+	float:bottom;
+	text-align:center;
+}
+
+.tło_guzik
+{
+	background-color:gold;
+	font-size:1.5em;
+	cursor: pointer;
+	border-color:gold;
+	color:black;
+	width:100%;
+	float:bottom;
+	text-align:center;
+}
+
+.tło_kom
+{
+	background-color:black;
+	font-size:1.8em;
+	color:gold;
+	float:right;
+	width:100%;
+	text-align:center;
+}
+.archiwmenty
+{
+		background-color:black;
+	font-size:1.8em;
+	color:gold;
+	float:right;
+	width:100%;
+	text-align:center;
+	margin-bottom:5px;
+}
+#Pojemnik
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:100%
+}
+
+.Belka
+{
+	float:left;
+	width:1%;
+	height:50em;
+}
+
+#Sklep
+{
+	background-color:white;
+	float:left;
+border-color:gold;
+	margin-left:auto;
+	height:50em;
+	width:25%;
+}
+
+#centrum
+{
+	background-color:white;
+	float:left;
+	height:50em;
+	width:48%;
+}
+
+#Achiwmenty
+{
+	background-color:white;
+	float:left;
+	margin-right:auto;
+	height:50em;
+	width:25%;
+}
+
+#chel
+{
+	background-color:black;
+	height:7em;
+}
+
+#chel_guzik
+{
+	background-color:black;
+	font-size:1.5em;
+	border-color:gold;
+	color:gold;
+	float:left;
+	width:100%;
+	text-align:center;
+}
+
+#chel_guzik:hover
+{
+	background-color:gold;
+	font-size:1.5em;
+	cursor:pointer;
+	border-color:gold;
+	color:black;
+	float:left;
+	width:100%;
+	text-align:center;
+}
+
+#chel_udany
+{
+	background-color:green;
+	font-size:1.5em;
+	color:gold;
+	float:right;
+	width:100%;
+	text-align:center;
+}
+
+#chel_nie_udany
+{
+	background-color:red;
+	font-size:1.5em;
+	color:gold;
+	float:right;
+	width:100%;
+	text-align:center;
+}
+
+#chel_timmer
+{
+	background-color:black;
+	font-size:1.5em;
+	color:gold;
+	float:right;
+	width:100%;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//E//.//R//.//V

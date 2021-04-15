@@ -1,0 +1,111 @@
+body
+{
+		background-color:lightgreen;
+}
+#przycisk
+{
+	text-align:center;
+	font-size:5em;
+	width:3.4em;
+	height:1.2em;
+	background-color:gold;
+	border-radius:100px;
+	border-width:2px;
+	border-style:solid;
+	box-shadow:0 0 16px black;
+}
+#gra
+{
+	padding-top:50%;
+	display:table-cell;
+        vertical-align:middle;
+}
+#przycisk:hover
+{
+	text-align:center;
+	font-size:5em;
+	width:3.4em;
+	height:1.2em;
+	color:gold;
+	background-color:black;
+	border-radius:100px;
+	border-width:2px;
+	border-style:solid;
+	cursor:pointer;
+	box-shadow:9px 9px 12px black;
+}
+#pojemnik
+{
+	border-width:2px;
+	border-style:solid;
+	width:40em;
+	border-radius:10em;
+	height:5em;
+}
+
+#Animate
+{
+	border-radius:10em;
+	animation:anim 101s 1;
+	text-align:center;
+	position: relative;
+	display:table-cell;
+}
+
+@keyframes anim
+{
+	0% {width:0em;background-color:#42a1d9;color:darkblue;text-align:center;font-size:4.35em;}
+	50% {width:20em;background-color:#42a1d9;color:darkblue;text-align:center;font-size:4.35em;}
+	100% {width:40em;background-color:#42a1d9;color:darkblue;text-align:center;font-size:4.35em;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//E//.//R//.//V
